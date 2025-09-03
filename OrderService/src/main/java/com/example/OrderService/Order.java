@@ -11,6 +11,6 @@ public class Order {
     private List<String> items;
 
 
-    public <E> Order(long l, Long userId, BigDecimal bigDecimal, String rub, java.util.List<E> ноутбук) {
+    public <E> Order(long l, Long userId, BigDecimal bigDecimal, String rub, java.util.List<E> items) {
     }
 }
