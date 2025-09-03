@@ -7,6 +7,6 @@ public class User {
     private String phoneNumber;
     private String email;
 
-    public User(long userId, String иванИванов, String s, String s1, String mail) {
+    public User(long userId, String ivanIvanov, String s, String s1, String mail) {
     }
 }
